@@ -8,6 +8,8 @@ import { Links } from "./Links";
 const NavgationArea = styled.nav`
   width: 100%;
   height: 120px;
+  background: #fff;
+  z-index: 100;
   position: fixed;
   display: flex;
   flex-direction: column;
@@ -23,7 +25,7 @@ const Title = styled.div`
 const Container = styled.div`
   max-width: 1280px;
   margin: auto;
-  height: calc(100vh - 120px);
+  min-height: calc(100vh - 120px);
   padding-top: 120px;
   display: flex;
   justify-content: center;

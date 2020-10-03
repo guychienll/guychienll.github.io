@@ -1,6 +1,6 @@
-import About from "./About";
-import Home from "./Home";
-import Contact from "./Contact";
+import About from "./components/About";
+import Home from "./components/Home";
+import Contact from "./components/Contact";
 
 export const routes = [
   {
