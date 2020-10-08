@@ -37,7 +37,7 @@ const App: React.FC = () => {
     setIsHambergurOn(state);
   };
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <NavgationArea>
         <Title>Guy Chien</Title>
         {isHambergurOn ? null : (
