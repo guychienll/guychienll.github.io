@@ -140,3 +140,11 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
+img {
+  box-sizing: border-box;
+  display: block;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
