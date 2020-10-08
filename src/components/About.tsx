@@ -12,19 +12,28 @@ const Wrapper = styled.div`
     margin-top: 25px;
   }
   img {
-    width: 450px;
-    height: 450px;
+    max-width: 280px;
+    transition: all ease 0.5s;
   }
   h1 {
     font-size: 3rem;
     font-family: "Amatic SC", cursive;
   }
   p {
+    transition: all ease 0.5s;
     font-family: "Amatic SC", cursive;
-    width: 450px;
+    max-width: 280px;
     text-align: center;
     font-size: 1.3rem;
     line-height: 1.5rem;
+  }
+  @media screen and (min-width: 768px) {
+    img {
+      max-width: 450px;
+    }
+    p {
+      max-width: 350px;
+    }
   }
 `;
 
