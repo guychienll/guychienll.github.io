@@ -23,12 +23,12 @@ const Title = styled.div`
 `;
 
 const Container = styled.div`
-  max-width: 1280px;
-  margin: auto;
+  max-width: 960px;
   min-height: calc(100vh - 120px);
   padding-top: 120px;
   display: flex;
   justify-content: center;
+  margin: 0 auto 0 auto;
 `;
 
 const App: React.FC = () => {

@@ -19,9 +19,6 @@ const Coulumn = styled.div`
   flex-direction: column;
   align-items: center;
   margin: 0 10px 0 10px;
-  @media screen and (max-width: 768px) {
-    min-width: 380px;
-  }
 `;
 
 const Work = styled.a<{ href: string }>`
