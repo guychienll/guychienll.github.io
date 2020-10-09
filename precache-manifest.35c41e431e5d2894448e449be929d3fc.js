@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9efd4b184fa96959ae3c7d48fce97176",
+    "revision": "c325f3a4d51a6653bc721c089d45bd6e",
     "url": "/index.html"
   },
   {
-    "revision": "947364b17d931995c5d7",
+    "revision": "270e3db51cf1c37536c9",
     "url": "/static/css/main.2892c8b6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.d0ba4f22.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "947364b17d931995c5d7",
-    "url": "/static/js/main.595b39b7.chunk.js"
+    "revision": "270e3db51cf1c37536c9",
+    "url": "/static/js/main.2fe3a345.chunk.js"
   },
   {
     "revision": "b538ca65904289e9a99e",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/aqi-index-service.71a5c062.jpg"
   },
   {
-    "revision": "a45ac18c78062714fff17cb915359bac",
-    "url": "/static/media/canvas.a45ac18c.jpg"
+    "revision": "e796a62e3e890cecfe6884f2386d9c8a",
+    "url": "/static/media/canvas.e796a62e.png"
   },
   {
     "revision": "d919de5e1c4009908c96b782a530d457",
