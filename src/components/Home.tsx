@@ -5,7 +5,7 @@ import sixtySecondGaming from "../images/sixty-second-gaming.jpg";
 import aqiIndexService from "../images/aqi-index-service.jpg";
 import tictactoe from "../images/tictactoe.jpg";
 import muses from "../images/muses.jpg";
-import canvas from "../images/canvas.jpg";
+import canvas from "../images/canvas.png";
 const Wrapper = styled.div`
   min-width: 320px;
   display: flex;
@@ -74,7 +74,7 @@ const works = [
   {
     link: "https://guychienll.github.io/canvas",
     imgSrc: canvas,
-    name: "canvas.jpg",
+    name: "canvas.png",
     orderId: 1,
   },
 ];
